@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+Dec 10, 2015 12:57:00 PM Logger.CoordinatorLogger <init>
+INFO: ------------------------------------------------------
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+Dec 10, 2015 1:55:56 PM Logger.CoordinatorLogger <init>
+INFO: ------------------------------------------------------
+Dec 10, 2015 1:55:59 PM Logger.CoordinatorLogger logEntry
+INFO: Testing if port 8080 is occupied
+Dec 10, 2015 1:55:59 PM Logger.CoordinatorLogger logEntry
+INFO: 8080 is available
+Dec 10, 2015 1:56:56 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8089/acceptor ADDED AS COHORT
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+Dec 10, 2015 1:58:52 PM Logger.CoordinatorLogger <init>
+INFO: ------------------------------------------------------
+Dec 10, 2015 1:58:55 PM Logger.CoordinatorLogger logEntry
+INFO: Testing if port 8080 is occupied
+Dec 10, 2015 1:58:55 PM Logger.CoordinatorLogger logEntry
+INFO: 8080 is available
+Dec 10, 2015 1:59:27 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8089/acceptor ADDED AS COHORT
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+Dec 10, 2015 2:18:03 PM Logger.CoordinatorLogger <init>
+INFO: ------------------------------------------------------
+Dec 10, 2015 2:18:05 PM Logger.CoordinatorLogger logEntry
+INFO: Testing if port 8080 is occupied
+Dec 10, 2015 2:18:05 PM Logger.CoordinatorLogger logEntry
+INFO: 8080 is available
+Dec 10, 2015 2:18:39 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8089/acceptor ADDED AS COHORT
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+Dec 10, 2015 2:21:35 PM Logger.CoordinatorLogger <init>
+INFO: ------------------------------------------------------
+Dec 10, 2015 2:21:38 PM Logger.CoordinatorLogger logEntry
+INFO: Testing if port 8080 is occupied
+Dec 10, 2015 2:21:38 PM Logger.CoordinatorLogger logEntry
+INFO: 8080 is available
+Dec 10, 2015 2:22:00 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8089/acceptor ADDED AS COHORT
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+Dec 10, 2015 5:41:31 PM Logger.CoordinatorLogger <init>
+INFO: ------------------------------------------------------
+Dec 10, 2015 5:41:33 PM Logger.CoordinatorLogger logEntry
+INFO: Testing if port 8080 is occupied
+Dec 10, 2015 5:41:33 PM Logger.CoordinatorLogger logEntry
+INFO: 8080 is available
+Dec 10, 2015 5:41:33 PM Logger.CoordinatorLogger logEntry
+SEVERE: Remote Exception in main - java.rmi.server.ExportException: remote object implements illegal remote interface; nested exception is: 
+	java.lang.IllegalArgumentException: illegal remote method encountered: public abstract void ClientOperations.CoordinatorInterface.propose(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+Dec 10, 2015 5:41:45 PM Logger.CoordinatorLogger <init>
+INFO: ------------------------------------------------------
+Dec 10, 2015 5:41:47 PM Logger.CoordinatorLogger logEntry
+INFO: Testing if port 8080 is occupied
+Dec 10, 2015 5:41:47 PM Logger.CoordinatorLogger logEntry
+INFO: 8080 is available
+Dec 10, 2015 5:41:47 PM Logger.CoordinatorLogger logEntry
+SEVERE: Remote Exception in main - java.rmi.server.ExportException: remote object implements illegal remote interface; nested exception is: 
+	java.lang.IllegalArgumentException: illegal remote method encountered: public abstract void ClientOperations.CoordinatorInterface.propose(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+Dec 10, 2015 5:52:10 PM Logger.CoordinatorLogger <init>
+INFO: ------------------------------------------------------
+Dec 10, 2015 5:52:13 PM Logger.CoordinatorLogger logEntry
+INFO: Testing if port 8080 is occupied
+Dec 10, 2015 5:52:13 PM Logger.CoordinatorLogger logEntry
+INFO: 8080 is available
+Dec 10, 2015 5:52:41 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8089/acceptor ADDED AS COHORT, ID = 1
+Dec 10, 2015 5:53:23 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8087/acceptor ADDED AS COHORT, ID = 2
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+Dec 10, 2015 7:25:59 PM Logger.CoordinatorLogger <init>
+INFO: ------------------------------------------------------
+Dec 10, 2015 7:26:04 PM Logger.CoordinatorLogger logEntry
+INFO: Testing if port 8080 is occupied
+Dec 10, 2015 7:26:04 PM Logger.CoordinatorLogger logEntry
+INFO: 8080 is available
+Dec 10, 2015 7:26:30 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8089/acceptor ADDED AS COHORT, ID = 1
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+Dec 10, 2015 8:06:04 PM Logger.CoordinatorLogger <init>
+INFO: ------------------------------------------------------
+Dec 10, 2015 8:06:10 PM Logger.CoordinatorLogger logEntry
+INFO: Testing if port 8080 is occupied
+Dec 10, 2015 8:06:10 PM Logger.CoordinatorLogger logEntry
+INFO: 8080 is available
+Dec 10, 2015 8:10:10 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8081/acceptor ADDED AS COHORT, ID = 1
+Dec 10, 2015 8:10:55 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8082/acceptor ADDED AS COHORT, ID = 2
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+Dec 10, 2015 8:18:05 PM Logger.CoordinatorLogger <init>
+INFO: ------------------------------------------------------
+Dec 10, 2015 8:19:27 PM Logger.CoordinatorLogger logEntry
+INFO: Testing if port 8080 is occupied
+Dec 10, 2015 8:19:27 PM Logger.CoordinatorLogger logEntry
+INFO: 8080 is available
+Dec 10, 2015 8:20:10 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8081/acceptor ADDED AS COHORT, ID = 1
+Dec 10, 2015 8:20:28 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8082/acceptor ADDED AS COHORT, ID = 2
+Dec 10, 2015 8:20:48 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8083/acceptor ADDED AS COHORT, ID = 3
+Dec 10, 2015 8:21:13 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8084/acceptor ADDED AS COHORT, ID = 4
+Dec 10, 2015 8:21:28 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8085/acceptor ADDED AS COHORT, ID = 5
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+Dec 15, 2015 12:48:39 PM Logger.CoordinatorLogger <init>
+INFO: ------------------------------------------------------
+Dec 15, 2015 12:48:44 PM Logger.CoordinatorLogger logEntry
+INFO: Testing if port 8080 is occupied
+Dec 15, 2015 12:48:44 PM Logger.CoordinatorLogger logEntry
+INFO: 8080 is available
+Dec 15, 2015 12:49:17 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8089/acceptor ADDED AS COHORT, ID = 1
+Dec 15, 2015 12:49:45 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8087/acceptor ADDED AS COHORT, ID = 2
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+Dec 15, 2015 12:57:26 PM Logger.CoordinatorLogger <init>
+INFO: ------------------------------------------------------
+Dec 15, 2015 12:57:30 PM Logger.CoordinatorLogger logEntry
+INFO: Testing if port 8080 is occupied
+Dec 15, 2015 12:57:30 PM Logger.CoordinatorLogger logEntry
+INFO: 8080 is available
+Dec 15, 2015 12:57:53 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8087/acceptor ADDED AS COHORT, ID = 1
+Dec 15, 2015 12:58:16 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8089/acceptor ADDED AS COHORT, ID = 2
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+Dec 15, 2015 1:11:37 PM Logger.CoordinatorLogger <init>
+INFO: ------------------------------------------------------
+Dec 15, 2015 1:11:40 PM Logger.CoordinatorLogger logEntry
+INFO: Testing if port 8080 is occupied
+Dec 15, 2015 1:11:40 PM Logger.CoordinatorLogger logEntry
+INFO: 8080 is available
+Dec 15, 2015 1:12:04 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8089/acceptor ADDED AS COHORT, ID = 1
+Dec 15, 2015 1:12:36 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8087/acceptor ADDED AS COHORT, ID = 2
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+Dec 15, 2015 1:45:37 PM Logger.CoordinatorLogger <init>
+INFO: ------------------------------------------------------
+Dec 15, 2015 1:45:39 PM Logger.CoordinatorLogger logEntry
+INFO: Testing if port 8080 is occupied
+Dec 15, 2015 1:45:39 PM Logger.CoordinatorLogger logEntry
+INFO: 8080 is available
+Dec 15, 2015 1:46:08 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8081/acceptor ADDED AS COHORT, ID = 1
+Dec 15, 2015 1:46:28 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8082/acceptor ADDED AS COHORT, ID = 2
+Dec 15, 2015 1:46:58 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8083/acceptor ADDED AS COHORT, ID = 3
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+Dec 15, 2015 1:55:04 PM Logger.CoordinatorLogger <init>
+INFO: ------------------------------------------------------
+Dec 15, 2015 1:55:06 PM Logger.CoordinatorLogger logEntry
+INFO: Testing if port 8080 is occupied
+Dec 15, 2015 1:55:06 PM Logger.CoordinatorLogger logEntry
+INFO: 8080 is available
+Dec 15, 2015 1:55:23 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8081/acceptor ADDED AS COHORT, ID = 1
+Dec 15, 2015 1:55:43 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8082/acceptor ADDED AS COHORT, ID = 2
+Dec 15, 2015 1:55:58 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8083/acceptor ADDED AS COHORT, ID = 3
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+Dec 15, 2015 2:04:04 PM Logger.CoordinatorLogger <init>
+INFO: ------------------------------------------------------
+Dec 15, 2015 2:04:06 PM Logger.CoordinatorLogger logEntry
+INFO: Testing if port 8080 is occupied
+Dec 15, 2015 2:04:06 PM Logger.CoordinatorLogger logEntry
+INFO: 8080 is available
+Dec 15, 2015 2:04:24 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8081/acceptor ADDED AS COHORT, ID = 1
+Dec 15, 2015 2:04:43 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8082/acceptor ADDED AS COHORT, ID = 2
+Dec 15, 2015 2:04:52 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8083/acceptor ADDED AS COHORT, ID = 3
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+Dec 15, 2015 9:50:22 PM Logger.CoordinatorLogger <init>
+INFO: ------------------------------------------------------
+Dec 15, 2015 9:50:24 PM Logger.CoordinatorLogger logEntry
+INFO: Testing if port 8080 is occupied
+Dec 15, 2015 9:50:24 PM Logger.CoordinatorLogger logEntry
+INFO: 8080 is available
+Dec 15, 2015 9:51:50 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8087/acceptor ADDED AS COHORT, ID = 1
+Dec 15, 2015 9:52:24 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8086/acceptor ADDED AS COHORT, ID = 2
+Dec 15, 2015 9:53:09 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8089/acceptor ADDED AS COHORT, ID = 3
+Dec 15, 2015 9:53:23 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8088/acceptor ADDED AS COHORT, ID = 4
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+Dec 15, 2015 9:58:04 PM Logger.CoordinatorLogger <init>
+INFO: ------------------------------------------------------
+Dec 15, 2015 9:58:07 PM Logger.CoordinatorLogger logEntry
+INFO: Testing if port 8080 is occupied
+Dec 15, 2015 9:58:07 PM Logger.CoordinatorLogger logEntry
+INFO: 8080 is available
+Dec 15, 2015 9:58:29 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8088/acceptor ADDED AS COHORT, ID = 1
+Dec 15, 2015 9:59:15 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8089/acceptor ADDED AS COHORT, ID = 2
+Dec 15, 2015 9:59:30 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8081/acceptor ADDED AS COHORT, ID = 3
+Dec 15, 2015 9:59:57 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8083/acceptor ADDED AS COHORT, ID = 4
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+Dec 15, 2015 10:11:08 PM Logger.CoordinatorLogger <init>
+INFO: ------------------------------------------------------
+Dec 15, 2015 10:11:10 PM Logger.CoordinatorLogger logEntry
+INFO: Testing if port 8080 is occupied
+Dec 15, 2015 10:11:10 PM Logger.CoordinatorLogger logEntry
+INFO: 8080 is available
+Dec 15, 2015 10:11:51 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8089/acceptor ADDED AS COHORT, ID = 1
+Dec 15, 2015 10:12:06 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8088/acceptor ADDED AS COHORT, ID = 2
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+Dec 15, 2015 10:17:10 PM Logger.CoordinatorLogger <init>
+INFO: ------------------------------------------------------
+Dec 15, 2015 10:17:42 PM Logger.CoordinatorLogger logEntry
+INFO: Testing if port 8080 is occupied
+Dec 15, 2015 10:17:42 PM Logger.CoordinatorLogger logEntry
+INFO: 8080 is available
+Dec 15, 2015 10:18:06 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8088/acceptor ADDED AS COHORT, ID = 1
+Dec 15, 2015 10:18:38 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8089/acceptor ADDED AS COHORT, ID = 2
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+Dec 15, 2015 10:36:25 PM Logger.CoordinatorLogger <init>
+INFO: ------------------------------------------------------
+Dec 15, 2015 10:36:28 PM Logger.CoordinatorLogger logEntry
+INFO: Testing if port 8080 is occupied
+Dec 15, 2015 10:36:28 PM Logger.CoordinatorLogger logEntry
+INFO: 8080 is available
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+Dec 15, 2015 10:40:55 PM Logger.CoordinatorLogger <init>
+INFO: ------------------------------------------------------
+Dec 15, 2015 10:40:57 PM Logger.CoordinatorLogger logEntry
+INFO: Testing if port 8080 is occupied
+Dec 15, 2015 10:40:57 PM Logger.CoordinatorLogger logEntry
+INFO: 8080 is available
+Dec 15, 2015 10:41:15 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8081/acceptor ADDED AS COHORT, ID = 1
+Dec 15, 2015 10:41:50 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8082/acceptor ADDED AS COHORT, ID = 2
+Dec 15, 2015 10:42:09 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8083/acceptor ADDED AS COHORT, ID = 3
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+Dec 15, 2015 10:53:33 PM Logger.CoordinatorLogger <init>
+INFO: ------------------------------------------------------
+Dec 15, 2015 10:53:36 PM Logger.CoordinatorLogger logEntry
+INFO: Testing if port 8080 is occupied
+Dec 15, 2015 10:53:36 PM Logger.CoordinatorLogger logEntry
+INFO: 8080 is available
+Dec 15, 2015 10:54:01 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8081/acceptor ADDED AS COHORT, ID = 1
+Dec 15, 2015 10:54:50 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8082/acceptor ADDED AS COHORT, ID = 2
+Dec 15, 2015 10:55:05 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8083/acceptor ADDED AS COHORT, ID = 3
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+Dec 15, 2015 10:57:12 PM Logger.CoordinatorLogger <init>
+INFO: ------------------------------------------------------
+Dec 15, 2015 10:57:18 PM Logger.CoordinatorLogger logEntry
+INFO: Testing if port 8080 is occupied
+Dec 15, 2015 10:57:18 PM Logger.CoordinatorLogger logEntry
+INFO: 8080 is available
+Dec 15, 2015 10:57:37 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8081/acceptor ADDED AS COHORT, ID = 1
+Dec 15, 2015 10:58:02 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8082/acceptor ADDED AS COHORT, ID = 2
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+Dec 15, 2015 11:02:02 PM Logger.CoordinatorLogger <init>
+INFO: ------------------------------------------------------
+Dec 15, 2015 11:02:05 PM Logger.CoordinatorLogger logEntry
+INFO: Testing if port 8080 is occupied
+Dec 15, 2015 11:02:05 PM Logger.CoordinatorLogger logEntry
+INFO: 8080 is available
+Dec 15, 2015 11:02:41 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8081/acceptor ADDED AS COHORT, ID = 1
+Dec 15, 2015 11:02:56 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8082/acceptor ADDED AS COHORT, ID = 2
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+Dec 15, 2015 11:09:33 PM Logger.CoordinatorLogger <init>
+INFO: ------------------------------------------------------
+Dec 15, 2015 11:09:35 PM Logger.CoordinatorLogger logEntry
+INFO: Testing if port 8080 is occupied
+Dec 15, 2015 11:09:35 PM Logger.CoordinatorLogger logEntry
+INFO: 8080 is available
+Dec 15, 2015 11:09:53 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8081/acceptor ADDED AS COHORT, ID = 1
+Dec 15, 2015 11:10:07 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8082/acceptor ADDED AS COHORT, ID = 2
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+Dec 15, 2015 11:14:33 PM Logger.CoordinatorLogger <init>
+INFO: ------------------------------------------------------
+Dec 15, 2015 11:14:34 PM Logger.CoordinatorLogger logEntry
+INFO: Testing if port 8080 is occupied
+Dec 15, 2015 11:14:34 PM Logger.CoordinatorLogger logEntry
+INFO: 8080 is available
+Dec 15, 2015 11:14:56 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8081/acceptor ADDED AS COHORT, ID = 1
+Dec 15, 2015 11:15:24 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8082/acceptor ADDED AS COHORT, ID = 2
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+Dec 15, 2015 11:30:23 PM Logger.CoordinatorLogger <init>
+INFO: ------------------------------------------------------
+Dec 15, 2015 11:30:26 PM Logger.CoordinatorLogger logEntry
+INFO: Testing if port 8080 is occupied
+Dec 15, 2015 11:30:26 PM Logger.CoordinatorLogger logEntry
+INFO: 8080 is available
+Dec 15, 2015 11:30:42 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8081/acceptor ADDED AS COHORT, ID = 1
+Dec 15, 2015 11:31:30 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8082/acceptor ADDED AS COHORT, ID = 2
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+Dec 15, 2015 11:34:28 PM Logger.CoordinatorLogger <init>
+INFO: ------------------------------------------------------
+Dec 15, 2015 11:34:30 PM Logger.CoordinatorLogger logEntry
+INFO: Testing if port 8080 is occupied
+Dec 15, 2015 11:34:30 PM Logger.CoordinatorLogger logEntry
+INFO: 8080 is available
+Dec 15, 2015 11:34:48 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8081/acceptor ADDED AS COHORT, ID = 1
+Dec 15, 2015 11:35:04 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8082/acceptor ADDED AS COHORT, ID = 2
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+Dec 15, 2015 11:37:11 PM Logger.CoordinatorLogger <init>
+INFO: ------------------------------------------------------
+Dec 15, 2015 11:37:13 PM Logger.CoordinatorLogger logEntry
+INFO: Testing if port 8080 is occupied
+Dec 15, 2015 11:37:13 PM Logger.CoordinatorLogger logEntry
+INFO: 8080 is available
+Dec 15, 2015 11:37:32 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8081/acceptor ADDED AS COHORT, ID = 1
+Dec 15, 2015 11:37:51 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8082/acceptor ADDED AS COHORT, ID = 2
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+Dec 15, 2015 11:39:40 PM Logger.CoordinatorLogger <init>
+INFO: ------------------------------------------------------
+Dec 15, 2015 11:39:42 PM Logger.CoordinatorLogger logEntry
+INFO: Testing if port 8080 is occupied
+Dec 15, 2015 11:39:42 PM Logger.CoordinatorLogger logEntry
+INFO: 8080 is available
+Dec 15, 2015 11:40:00 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8081/acceptor ADDED AS COHORT, ID = 1
+Dec 15, 2015 11:40:18 PM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8082/acceptor ADDED AS COHORT, ID = 2
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+Dec 16, 2015 1:16:40 AM Logger.CoordinatorLogger <init>
+INFO: ------------------------------------------------------
+Dec 16, 2015 1:16:42 AM Logger.CoordinatorLogger logEntry
+INFO: Testing if port 8080 is occupied
+Dec 16, 2015 1:16:42 AM Logger.CoordinatorLogger logEntry
+INFO: 8080 is available
+Dec 16, 2015 1:17:03 AM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8081/acceptor ADDED AS COHORT, ID = 1
+Dec 16, 2015 1:17:26 AM Logger.CoordinatorLogger logEntry
+INFO: //localhost:8082/acceptor ADDED AS COHORT, ID = 2
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+Dec 16, 2015 1:20:14 AM Logger.CoordinatorLogger <init>
+INFO: ------------------------------------------------------

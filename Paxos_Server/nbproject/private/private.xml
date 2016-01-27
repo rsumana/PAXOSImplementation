@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/NetBeansProjects/Paxos_Server/src/rmi_server_cohort/Reminder.java</file>
+            <file>file:/E:/NetBeansProjects/Paxos_Server/src/ClientOperations/CohortImpl.java</file>
+            <file>file:/E:/NetBeansProjects/Paxos_Server/src/rmi_server_cohort/RMI_Server_Cohort.java</file>
+            <file>file:/E:/NetBeansProjects/Paxos_Server/src/ClientOperations/CohortInterface.java</file>
+            <file>file:/E:/NetBeansProjects/Paxos_Server/src/ClientOperations/CoordinatorInterface.java</file>
+        </group>
+    </open-files>
+</project-private>
